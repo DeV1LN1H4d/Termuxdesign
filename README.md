@@ -1,6 +1,9 @@
 Copying code! I'm just Edit!
 
-``Just for me to use``
+``→ Just for me to use ←``
+
+# How to install Termuxdesign
+Only Termux 
 
 * `apt-get update -y`
 
