@@ -10,6 +10,6 @@
 
 * `git clone https://github.com/DeV1LN1H4d/Termuxdesign`
 
-* `cd Termuxdesign
+* `cd Termuxdesign`
 
-* `python2 Termuxdesign.py
+* `python2 Termuxdesign.py`
