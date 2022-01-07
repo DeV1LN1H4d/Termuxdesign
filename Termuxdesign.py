@@ -47,7 +47,7 @@ bashrc2 = '''
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]DEV1L N1H4D [★] ━━━━━━━━━━━━ > " |lolcat
+      < ━━━━━━━━━━━ [★]DEV1L N1H4D [★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
