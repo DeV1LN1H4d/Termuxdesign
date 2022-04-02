@@ -22,7 +22,7 @@ import os,sys,time,random
 print("")
 print("")
 color = ["\\033[1;31m","\\033[1;32m"]
-m = random.choice(color)+"START {} \\n"
+m = random.choice(color)+"HACKING IS NOT CRIME IT'S A GAME AGAINST OF THE SYSTEM {} \\n"
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
@@ -40,7 +40,7 @@ echo
 echo "
    < ━━━━━━━━━ [★]→ D E V 1 L→↓←N 1 H 4 D ←[★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  We Are AnonyMouse" |lolcat
+    echo "  welcome To My Cyber World" |lolcat
 '''
 
 bashrc2 = '''
@@ -70,4 +70,4 @@ h2.write(bashrc2)
 h2.write('\[\e[34m\]└─>\[\e[35m\]'+name+'\[\e[34m\][~]:#\[\e[1;32m\] "\n')
 h2.write('echo -e "\e[6 q"')
 h2.close()
-print('DONE')
+print('DONE N1H4D')
