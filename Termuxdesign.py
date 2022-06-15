@@ -26,7 +26,7 @@ m = random.choice(color)+" HACKING IS NOT CRIME IT'S A GAME AGAINST OF THE SYSTE
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
-    time.sleep(0.06)
+    time.sleep(0.03)
 print("")
 '''.format(name)
 
