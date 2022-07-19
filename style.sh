@@ -383,3 +383,4 @@ echo ""
 echo ""
 echo ""
 sleep 1.0
+mpv /sdcard/scifi.mp3
